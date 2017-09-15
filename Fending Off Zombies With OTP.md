@@ -37,7 +37,7 @@ Missionary to Uganda
 ![](Pics/Zombies-6.jpg)
 
 ### Subscribe to the application at
-## [zombies.davejlong.com]()
+## [zombies.ngrok.io]()
 
 ^ It makes the end result of this talk way more impressive.
 
