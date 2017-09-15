@@ -1,0 +1,15 @@
+input[type='email'], input[type='number'], input[type='password'],
+input[type='search'], input[type='tel'], input[type='text'], input[type='url'],
+textarea, select {
+  &.error {
+    border-color: red;
+  }
+}
+
+.success {
+  border: 1px solid green;
+  background-color: #bcf5bc;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
