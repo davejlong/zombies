@@ -6,6 +6,9 @@ theme: Poster, 1
 
 ![](Pics/devconf_first_slide_template.png)
 
+^ We've talked about Robot's putting us in a people zoo.
+^ Now, how about getting eaten by zombies?
+
 ---
 
 ![](Pics/Romero.jpg)
@@ -27,8 +30,8 @@ Missionary to Uganda
 [@davejlong](https://twitter.com/davejlong) on Twitter / GitHub / Keybase
 [davejlong.com](https://ghost.davejlong.com) on Web
 
-^ Director of Dev and Customer Services
-^ Managed IT in CT, USA
+^ Director of Dev and Client services
+^ Live in the forest between Boston and New York
 
 ---
 ![](Pics/Zombies-6.jpg)
@@ -771,6 +774,13 @@ $ mix new zombie_alerter --sup
 ```
 
 ---
+![inline](Pics/phoenix.png)
+
+^ Phoenix for more advanced web applications
+^ It's not Rails! Provides conveniences of MVC modules
+^ Does not force MVC
+
+---
 ![](Pics/Zombies-4.jpg)
 
 # [fit] How is this
@@ -784,6 +794,9 @@ $ mix new zombie_alerter --sup
 
 ---
 ![](Pics/lra.jpg)
+
+---
+![](Pics/protesting.png)
 
 ---
 
